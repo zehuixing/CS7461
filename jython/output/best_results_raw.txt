@@ -1,0 +1,36 @@
+---------- NN ----------
+{'Backprop': {'best': 0.830383480826,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.820295983087,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_10_20_LOG.csv']},
+ 'RHC': {'best': 0.829234012649,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.832116788321,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.830383480826,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.820295983087,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_10_20_LOG.csv']},
+ 'RHC': {'best': 0.829234012649,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.832116788321,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.830383480826,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.820295983087,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_10_20_LOG.csv']},
+ 'RHC': {'best': 0.829234012649,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.832116788321,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.830383480826,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.820295983087,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_10_20_LOG.csv']},
+ 'RHC': {'best': 0.829234012649,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.832116788321,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
